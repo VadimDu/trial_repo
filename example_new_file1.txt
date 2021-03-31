@@ -1,1 +1,2 @@
 This is just an example file for Git basic tutorial
+I have just made some changes to this file! (a commit)
