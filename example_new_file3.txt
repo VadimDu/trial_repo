@@ -1,0 +1,1 @@
+A third example file for practicing with Git
